@@ -1,4 +1,5 @@
-﻿App_Data/
+﻿*.meta
+App_Data/
 *.mdf
 *.ldf
 DO_NOT_ADD_TO_GIT/
